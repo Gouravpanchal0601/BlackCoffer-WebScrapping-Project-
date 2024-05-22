@@ -1,4 +1,4 @@
-# BlackCoffer-WebScrapping-Project
+# BlackCoffer-WebScrapping-Data-Science-Project
 This repository contains the code and documentation for a data science project completed as part of my training with BlackCoffer. The primary objective of this project was to perform web scraping on the BlackCoffer website and conduct subsequent data analysis.
 
 # Project Details
@@ -15,7 +15,6 @@ Pandas & NumPy: Libraries used for data manipulation and analysis.
 Matplotlib & Seaborn: Libraries used for data visualization.
 
 # How to Use
-Clone this repository: git clone https://github.com/yourusername/blackcoffer-data-science-project.git
 Navigate to the project directory: cd blackcoffer-data-science-project
 Run the Jupyter notebooks to see the scraping, cleaning, and analysis.
 
